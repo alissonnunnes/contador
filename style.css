@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+}
+body{
+    border: 1px solid red;
+    min-height: 100vh;
+    background: cornflowerblue;
+    display: grid;
+    place-items: center;
+}
+section{
+    background: beige;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+p{
+    font-size: 50px;    
+}
+h1{
+    font-size: 35px;
+
+}
+
